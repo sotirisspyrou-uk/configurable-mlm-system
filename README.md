@@ -103,8 +103,8 @@ Optimized for Vercel deployment:
 ## 📞 Contact
 
 **Sotiris Spyrou**  
-CEO, VerityAI  
-Email: sotiris@verityai.co.uk
+VerityAI  
+Email: sotiris@verityai.co
 
 ---
 
